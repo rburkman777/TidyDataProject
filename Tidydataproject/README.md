@@ -12,7 +12,12 @@ The dataset is a spreadsheet containing information on olympic medalists in the 
 
 # References
 Here are some helpful references on tidying data:
+
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://vita.had.co.nz/papers/tidy-data.pdf
 
-# 
+# Visual Examples 
+Here is an example of a visualization that can be produced with the data and code: 
+
+<img width="1386" height="590" alt="image" src="https://github.com/user-attachments/assets/29247fa8-6be9-479e-9a55-934dce0fecfd" />
+
