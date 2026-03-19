@@ -5,13 +5,13 @@ The key is understanding some of the principles of tidy data. There should only 
 
 # How to run the project
 
-Open the "notes3" file in VSCode and simply run each box of code. The code will output the relevant data at each step. 
+Open the "notes3" file in VSCode and simply run each box of code. The code will output the relevant data at each step. Make sure to run the cells with code and not the "markdown" cells which just have descriptions of what the is happening in the project. 
 
 # Dataset Description
-The dataset is a spreadsheet containing information on olympic medalists in the 2008 olmypics. 
+The dataset is a spreadsheet containing information on olympic medalists in the 2008 Olympics. 
 
 # References
-Here are some helpful references on tidying data:
+Tidying data is a crucial skill. Here are some helpful references on tidying data:
 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://vita.had.co.nz/papers/tidy-data.pdf
