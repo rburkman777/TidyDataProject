@@ -19,5 +19,6 @@ https://vita.had.co.nz/papers/tidy-data.pdf
 # Visual Examples 
 Here is an example of a visualization that can be produced with the data and code: 
 
-<img width="1386" height="590" alt="image" src="https://github.com/user-attachments/assets/29247fa8-6be9-479e-9a55-934dce0fecfd" />
+<img width="1386" height="590" alt="image" src="https://github.com/user-attachments/assets/bf59ca0f-e46f-41b8-b3d4-4bb4dc401ee7" />
+
 
