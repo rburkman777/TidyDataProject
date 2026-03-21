@@ -14,6 +14,7 @@ The dataset is a spreadsheet containing information on olympic medalists in the 
 Here are some helpful references on tidying data. The first reference gives you a good idea spatially of what each of the key functions do. The second one is a longer, more detailed examination into data tidying principals and practices. 
 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
 https://vita.had.co.nz/papers/tidy-data.pdf
 
 # Visual Examples 
