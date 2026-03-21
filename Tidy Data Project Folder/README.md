@@ -3,7 +3,7 @@ The goal of this project is to illustrate the power of data cleaning. We were ab
 
 The key is understanding some of the principles of tidy data. There should only be one column per variable and each row should be a distinct observation. There should not be more than one variable per column. Using these principles as guidelines, our file uses the "melt" and "split" functions to ensure that each variable is in one column. 
 
-# How to run the project
+# How to Run the Project
 
 Open the "notes3" file in VSCode and simply run each box of code. The code will output the relevant data at each step. Make sure that the olmypics_08_medalists.csv file is also open so the notes3 file can import it and work with it. 
 
