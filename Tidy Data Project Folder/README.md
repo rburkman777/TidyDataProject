@@ -10,7 +10,7 @@ Open the "notes3" file in VSCode and simply run each box of code. The code will 
 # Dataset Description
 The dataset is a spreadsheet containing information on olympic medalists in the 2008 Olympics. You can see it in its initial state by clicking on the file in this folder titled olympics_08_medalists.csv. When you run the notes3 file in VSCode, it will also show you a sample of how it looks both before and after we edit it. 
 
-# References
+# Data Tidying Additional Info and References
 Here are some helpful references on tidying data. The first reference gives you a good idea spatially of what each of the key functions do. The second one is a longer, more detailed examination into data tidying principals and practices. 
 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
